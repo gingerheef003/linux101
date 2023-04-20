@@ -157,3 +157,5 @@ sed
 ```
 sed -n '/J/p' employee.txt | awk -F '\t' '{ printf "%s(%s)\n", $2, $1 }'
 ```
+
+[Source](https://linuxhint.com/20_awk_examples/)
