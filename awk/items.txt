@@ -1,0 +1,3 @@
+HDD  Samsung   $100
+Mouse  A4Tech
+Printer   HP   $200

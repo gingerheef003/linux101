@@ -1,0 +1,4 @@
+Client-side   scripting language
+Server-side   scripting language
+Database  Server
+Web  Server

@@ -1,0 +1,4 @@
+1001 John sena 40000
+1002 Jafar Iqbal   60000
+1003 Meher Nigar   30000
+1004 Jonny Liver   70000
